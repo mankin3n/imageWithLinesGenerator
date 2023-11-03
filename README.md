@@ -5,7 +5,7 @@ This project is designed to generate an image with three distinct horizontal lin
 ## Features
 Generates a .png image with three lines.
 Lines are labeled with their respective lengths.
-Image includes a 2000px margin on all sides.
+Image includes a 500px margin on all sides.
 Lines are rendered in bright cyan color for clarity.
 ## Setup and Installation
 Clone the repository:
