@@ -13,7 +13,7 @@ const canvas = createCanvas(width, height);
 const ctx = canvas.getContext('2d');
 
 // Scale the drawing context for better quality
-ctx.scale(2, 2);
+//ctx.scale(2, 2);
 
 // Fill the canvas with a white background
 ctx.fillStyle = 'white';
